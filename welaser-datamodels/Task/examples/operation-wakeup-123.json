@@ -1,0 +1,34 @@
+{
+    "id": "operation-wakeup-123",
+    "type": "Task",
+    "goal": "The robot will weed parcel-123",
+    "taskType": "Operation",
+    "name": "Weeding",
+    "hasAgriRobot": "carob-123",
+    "hasWorkingArea": "agriparcel-123",
+    "workingAreaType": "AgriParcel",
+    "plannedBeginTime": "2012-04-13T10:40:00Z",
+    "plannedEndTime": "2012-04-13T10:40:00Z",
+    "plannedLocation": {
+        "type": "Point",
+        "coordinates": [
+            -3.4817996621131897,
+            40.313309089672984
+        ]
+    },
+    "plannedSpeed": 0.55,
+    "hasPlannedTaskChildren": [],
+    "hasExecutedTaskChildren": [],
+    "actualBeginTime": "2012-04-13T10:40:00Z",
+    "actualEndTime": "2012-04-13T10:40:00Z",
+    "actualLocation": {
+        "type": "Point",
+        "coordinates": [
+            -3.4817996621131897,
+            40.313309089672984
+        ]
+    },
+    "status": "finished",
+    "result": "ok",
+    "event": ""
+}

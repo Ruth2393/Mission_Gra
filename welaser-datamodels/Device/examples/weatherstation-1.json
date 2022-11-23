@@ -1,0 +1,23 @@
+{
+    "id": "urn:ngsi-ld:Device:weatherstation-1",
+    "name": "Weather Station @ CSIC",
+    "type": "Device",
+    "areaServed": "urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+    "controlledProperty": [
+        "temperature",
+        "humidity",
+        "heartbeat"
+    ],
+    "value": [
+        18,
+        50,
+        -1
+    ],
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -3.4810637987225532,
+            40.31184130935516
+        ]
+    }
+}

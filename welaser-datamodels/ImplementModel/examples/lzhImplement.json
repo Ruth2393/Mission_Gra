@@ -1,0 +1,11 @@
+{
+    "id": "implementmodel:lzhlaser",
+    "type": "ImplementModel",
+    "name": "LZH laser",
+    "PTO": "TBD",
+    "auxValve": "TBD",
+    "valve": "TBD",
+    "actuationType": "valve",
+    "actuationNumber": 1,
+    "width": 2
+}

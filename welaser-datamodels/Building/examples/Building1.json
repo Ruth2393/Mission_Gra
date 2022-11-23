@@ -1,0 +1,55 @@
+{
+  "id":"urn:ngsi-ld:Building:04ea9f36-9651-4df0-918a-6586a558a3b1",
+  "type":"Building",
+  "dateCreated":"2022-11-04T15:07:50Z",
+  "dateModified":"2022-11-04T15:07:50Z",
+  "source":"",
+  "name":"Building C",
+  "dataProvider":"OperatorA",
+  "category":"office",
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          40.31326409453562,
+          -3.4828088432550426
+        ],
+        [
+          40.31311044614164,
+          -3.482774645090103
+        ],
+        [
+          40.31315007263277,
+          -3.48248228430748
+        ],
+        [
+          40.31330142004943,
+          -3.4825171530246735
+        ],
+        [
+          40.31326409453562,
+          -3.4828088432550426
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":[
+      " La Poveda",
+      " Arganda del Rey"
+    ],
+    "streetAddress":[
+      "Nave Edif-C",
+      " Acceso CSIC"
+    ]
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building C",
+  "mapUrl":"",
+  "openingHours":[],
+  "ownedBy":""
+}
