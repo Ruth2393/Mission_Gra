@@ -1,0 +1,28 @@
+{
+  "id":"urn:ngsi-ld:Task:e1594d5a-2d21-4185-b8cc-b265cdbabdac",
+  "type":"Task",
+  "name":"Operation Treatment in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "goal":"Treatment in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:AgriParcel:0611d998-82b1-48ab-bad9-9512600cfa8c",
+  "workingAreaType":"AgriParcel 3",
+  "plannedBeginTime":"2022-11-14T15:35:16Z",
+  "plannedEndTime":"2022-11-14T16:10:16Z",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

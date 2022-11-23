@@ -1,0 +1,37 @@
+{
+  "id":"urn:ngsi-ld:Task:be6afdac-a714-4d66-b44f-980aae24b003",
+  "type":"Task",
+  "name":"Operation GoToWareHouse in Building C @ Farm WeLASER Arganda del Rey",
+  "goal":"GoToWareHouse in Building C @ Farm WeLASER Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:Building:04ea9f36-9651-4df0-918a-6586a558a3b1",
+  "workingAreaType":"Building C",
+  "plannedBeginTime":"2022-11-14T16:10:16Z",
+  "plannedEndTime":"2022-11-14T16:26:16Z",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      40.31320641281282,
+      -3.48264606287599
+    ]
+  },
+  "hasPlannedTaskChildren":[
+    "urn:ngsi-ld:Task:2c133136-1a17-47e9-af8e-d13f9eaf6850",
+    "urn:ngsi-ld:Task:7815fa91-cf62-4a10-bc20-94d30a188d1e",
+    "urn:ngsi-ld:Task:5e67e62c-783f-4d27-acf4-4f94cf2ae903",
+    "urn:ngsi-ld:Task:7082c3fd-0530-4aba-a16d-2ab931979b1f",
+    "urn:ngsi-ld:Task:08764981-b58f-425f-bbee-bc28849dc70f"
+  ],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

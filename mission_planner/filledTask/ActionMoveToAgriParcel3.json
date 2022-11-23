@@ -1,0 +1,28 @@
+{
+  "id":"urn:ngsi-ld:Task:780b36e4-385a-48eb-8bf3-b4db134c0502",
+  "type":"Task",
+  "name":"Action MoveTo in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "goal":"MoveTo in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "taskType":"Action",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:AgriParcel:0611d998-82b1-48ab-bad9-9512600cfa8c",
+  "workingAreaType":"AgriParcel",
+  "plannedBeginTime":[],
+  "plannedEndTime":[],
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

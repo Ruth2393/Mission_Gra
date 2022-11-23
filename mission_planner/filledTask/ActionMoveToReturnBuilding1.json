@@ -1,0 +1,31 @@
+{
+  "id":"urn:ngsi-ld:Task:08764981-b58f-425f-bbee-bc28849dc70f",
+  "type":"Task",
+  "name":"Action MoveTo Return in Building C @ Farm WeLASER Arganda del Rey",
+  "goal":"MoveTo Return in Building C @ Farm WeLASER Arganda del Rey",
+  "taskType":"Action",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:Building:04ea9f36-9651-4df0-918a-6586a558a3b1",
+  "workingAreaType":"Building",
+  "plannedBeginTime":[],
+  "plannedEndTime":[],
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      40.31320641281282,
+      -3.48264606287599
+    ]
+  },
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

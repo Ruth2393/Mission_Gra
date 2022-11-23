@@ -1,0 +1,37 @@
+{
+  "id":"urn:ngsi-ld:Task:5bdd00df-f3a0-4ff3-ad4a-f443fc96893a",
+  "type":"Task",
+  "name":"Operation GoToField in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "goal":"GoToFIeld in Field 3 beetroot @ Farm WeLASER Arganda del Rey",
+  "taskType":"Operation",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"urn:ngsi-ld:AgriFarm:73149273-a388-492c-b244-3eb945170eec",
+  "workingAreaType":"AgriFarm",
+  "plannedBeginTime":"2022-11-14T15:19:16Z",
+  "plannedEndTime":"2022-11-14T15:35:16Z",
+  "plannedSpeed":0.55,
+  "plannedLocation":{
+    "type":"Point",
+    "coordinates":[
+      40.31320641281282,
+      -3.48264606287599
+    ]
+  },
+  "hasPlannedTaskChildren":[
+    "urn:ngsi-ld:Task:5e2584b6-fff3-4df9-819f-aeaae956e4d5",
+    "urn:ngsi-ld:Task:df46d2bc-9fd1-4b5c-b73c-8847b1ce1d41",
+    "urn:ngsi-ld:Task:91e48337-3ea8-46b0-8921-53bf0c95bbf3",
+    "urn:ngsi-ld:Task:cfdb0aa7-55b8-4587-bd90-2f0a87c836f5",
+    "urn:ngsi-ld:Task:780b36e4-385a-48eb-8bf3-b4db134c0502"
+  ],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":{
+    "type":"Point",
+    "coordinates":[]
+  },
+  "actualBeginTime":"",
+  "actualEndTime":"",
+  "status":"planned",
+  "result":[],
+  "event":""
+}
