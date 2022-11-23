@@ -1,0 +1,18 @@
+{
+  "id":"urn:ngsi-ld:AgriCrop:9eb77eb1-6306-431a-ac0f-ae643d330c3c",
+  "type":"AgriCrop",
+  "dateCreated":"2022-11-15T15:54:39Z",
+  "dateModified":"2022-11-15T15:54:39Z",
+  "name":"",
+  "alternateName":"",
+  "agroVocConcept":[],
+  "seeAlso":[],
+  "description":"",
+  "relatedSource":[],
+  "hasAgriSoil":[],
+  "hasAgriFertiliser":[],
+  "hasAgriPest":[],
+  "plantingFrom":[],
+  "harvestingInterval":[],
+  "wateringFrequency":""
+}
