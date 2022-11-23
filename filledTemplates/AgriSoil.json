@@ -1,0 +1,13 @@
+{
+  "id":"urn:ngsi-ld:AgriSoil:7156f381-72ff-444f-b9cb-dd0de69dec89",
+  "type":"AgriSoil",
+  "dateCreated":"2022-11-15T15:54:39Z",
+  "dateModified":"2022-11-15T15:54:39Z",
+  "name":"Loam(Limosos)",
+  "alternateName":"Heavy soil",
+  "agroVocConcept":[],
+  "seeAlso":[],
+  "description":"Fine grained, poor draining soil. Particle size between 0.002 and 0.05 mm. They have intermediate properties between sandy soils and clay soils.",
+  "relatedSource":[],
+  "hasAgriProductType":[]
+}
