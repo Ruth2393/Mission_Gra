@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "config:base", ":rebaseStalePrs", ":semanticCommits"
+  ],
+  "assignees": ["w4bo"],
+  "automerge": true,
+  "dependencyDashboard": true,
+  "git-submodules": {
+    "enabled": true
+  },
+  "includeForks": true,
+  "packageRules": [
+    {
+      "description": "Updates to GitHub Actions should be tagged as 'ci'",
+      "matchPaths": [".github/workflows/*.yml", ".github/workflows/*.yaml"],
+      "semanticCommitType": "ci"
+    }
+  ],
+  "ignorePaths": ["**/service-dashboard/**", "**/service-kafkaproxy/**"],
+  "prConcurrentLimit": 25,
+  "prHourlyLimit": 0,
+  "separateMajorMinor": true,
+  "separateMinorPatch": true,
+  "separateMultipleMajor": true 
+}

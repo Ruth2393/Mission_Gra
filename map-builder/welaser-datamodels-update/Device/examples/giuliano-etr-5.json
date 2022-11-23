@@ -1,0 +1,19 @@
+{
+    "type": "Device",
+    "name": "ETR_ver_3",
+    "id": "urn:ngsi-ld:Device:ETR_ver_3",
+    "areaServed": "urn:ngsi-ld:AgriFarm:6991ac61-8db8-4a32-8fef-c462e2369055",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -3.481,
+            40.312
+        ]
+    },
+    "controlledProperty": [
+        "epoch"
+    ],
+    "value": [
+        0
+    ]
+}

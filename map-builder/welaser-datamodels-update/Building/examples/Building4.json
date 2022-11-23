@@ -1,0 +1,55 @@
+{
+  "id":"urn:ngsi-ld:Building:e2bf5173-0e66-4e3e-afa6-071ab344b951",
+  "type":"Building",
+  "dateCreated":"2022-11-04T15:07:52Z",
+  "dateModified":"2022-11-04T15:07:52Z",
+  "source":"",
+  "name":"Building A",
+  "dataProvider":"OperatorA",
+  "category":"office",
+  "location":{
+    "type":"Polygon",
+    "coordinates":[
+      [
+        [
+          40.31316029882028,
+          -3.48197802901268
+        ],
+        [
+          40.313084624996186,
+          -3.4819646179676056
+        ],
+        [
+          40.31309382857393,
+          -3.4818781167268753
+        ],
+        [
+          40.31316745715058,
+          -3.481895551085472
+        ],
+        [
+          40.31316029882028,
+          -3.48197802901268
+        ]
+      ]
+    ]
+  },
+  "address":{
+    "addressLocality":[
+      " La Poveda",
+      " Arganda del Rey"
+    ],
+    "streetAddress":[
+      "CAR-B",
+      " Acceso CSIC"
+    ]
+  },
+  "owner":[],
+  "occupier":[],
+  "floorsAboveGround":"",
+  "floorsBelowGround":"",
+  "description":"Building A",
+  "mapUrl":"",
+  "openingHours":[],
+  "ownedBy":""
+}

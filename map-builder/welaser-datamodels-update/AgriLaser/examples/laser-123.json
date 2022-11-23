@@ -1,0 +1,9 @@
+{
+    "id": "laser-123",
+    "type": "AgriLaser",
+    "refImplementModel": "implementmodel:lzhlaser",
+    "nominalPowerConmsumption": 7.5,
+    "powerConsumption": 6,
+    "voltage": 2,
+    "current": 3
+}

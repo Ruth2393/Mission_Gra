@@ -1,0 +1,27 @@
+{
+  "id":"urn:ngsi-ld:Task:645d4c77-fe83-4878-83ec-431a1a2df1b3",
+  "type":"Task",
+  "goal":"Continue Action",
+  "taskType":"Action",
+  "name":"MoveTo",
+  "hasAgriRobot":"carob-123",
+  "hasWorkingArea":"Gate",
+  "workingAreaType":"gate",
+  "plannedBeginTime":[],
+  "plannedEndTime":[],
+  "plannedSpeed":0.55,
+  "plannedLocation":[
+    [
+      40.3126585,
+      -3.480769
+    ]
+  ],
+  "hasPlannedTaskChildren":[],
+  "hasExecutedTaskChildren":[],
+  "actualLocation":[],
+  "actualBeginTime":"2012-04-13T10:52:00Z",
+  "actualEndTime":"2012-04-13T10:57:00Z",
+  "status":"planned",
+  "result":[],
+  "event":""
+}

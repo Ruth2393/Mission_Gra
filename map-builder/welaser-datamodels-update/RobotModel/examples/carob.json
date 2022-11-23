@@ -1,0 +1,15 @@
+{
+    "id": "robotmodel:carob",
+    "type": "RobotModel",
+    "name": "Carob v1",
+    "brandName": "AGC",
+    "modelName": "Carob",
+    "robotType": "Mobile robot",
+    "cargoPayload": 850,
+    "height": 1.5,
+    "width": 1.5,
+    "length": 2,
+    "fuelType": "diesel",
+    "fuelEfficiency": "TBD",
+    "wheelsType": "tracks"
+}
